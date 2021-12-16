@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\WagesForMonth.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\WagesForMonth.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\WagesForMonth.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\WagesForMonth.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\ref\WagesForMonth.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\bin\Debug\net6.0\WagesForMonth.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\ref\WagesForMonth.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesForMonth\obj\Debug\net6.0\WagesForMonth.genruntimeconfig.cache
