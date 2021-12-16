@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\EmployeeAttendece.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\EmployeeAttendece.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\EmployeeAttendece.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\EmployeeAttendece.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\ref\EmployeeAttendece.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\bin\Debug\net6.0\EmployeeAttendece.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\ref\EmployeeAttendece.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmployeeAttendece\obj\Debug\net6.0\EmployeeAttendece.genruntimeconfig.cache
