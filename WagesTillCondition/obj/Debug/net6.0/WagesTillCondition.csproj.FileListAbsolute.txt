@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\WagesTillCondition.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\WagesTillCondition.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\WagesTillCondition.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\WagesTillCondition.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\ref\WagesTillCondition.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\bin\Debug\net6.0\WagesTillCondition.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\ref\WagesTillCondition.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.genruntimeconfig.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\WagesTillCondition\obj\Debug\net6.0\WagesTillCondition.csproj.AssemblyReference.cache
