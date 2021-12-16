@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\SwitchCase.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\SwitchCase.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\SwitchCase.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\SwitchCase.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\bin\Debug\net6.0\SwitchCase.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\ref\SwitchCase.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SwitchCase\obj\Debug\net6.0\SwitchCase.genruntimeconfig.cache
