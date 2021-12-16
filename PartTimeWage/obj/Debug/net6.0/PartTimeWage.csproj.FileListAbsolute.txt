@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\PartTimeWage.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\PartTimeWage.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\PartTimeWage.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\PartTimeWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\ref\PartTimeWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\bin\Debug\net6.0\PartTimeWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\ref\PartTimeWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\PartTimeWage\obj\Debug\net6.0\PartTimeWage.genruntimeconfig.cache
