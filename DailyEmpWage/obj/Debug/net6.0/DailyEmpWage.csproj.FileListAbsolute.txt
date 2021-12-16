@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\DailyEmpWage.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\DailyEmpWage.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\DailyEmpWage.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\DailyEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\ref\DailyEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\bin\Debug\net6.0\DailyEmpWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\ref\DailyEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\DailyEmpWage\obj\Debug\net6.0\DailyEmpWage.genruntimeconfig.cache
