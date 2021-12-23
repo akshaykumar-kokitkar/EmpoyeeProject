@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\SaveTotalWageForCompany.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\SaveTotalWageForCompany.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\SaveTotalWageForCompany.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\SaveTotalWageForCompany.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\ref\SaveTotalWageForCompany.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\bin\Debug\net6.0\SaveTotalWageForCompany.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\ref\SaveTotalWageForCompany.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\SaveTotalWageForCompany\obj\Debug\net6.0\SaveTotalWageForCompany.genruntimeconfig.cache
