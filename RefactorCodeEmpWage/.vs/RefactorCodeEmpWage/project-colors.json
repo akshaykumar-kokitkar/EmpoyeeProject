@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6ac428d-42f9-4642-bc9d-a9d6bf9e62f0": {
+      "ProjectGuid": "e6ac428d-42f9-4642-bc9d-a9d6bf9e62f0",
+      "DisplayName": "RefactorCodeEmpWage",
+      "ColorIndex": 0
+    },
+    "3151ddbf-7bd7-4a6c-83f4-28ba7bcc5387": {
+      "ProjectGuid": "3151ddbf-7bd7-4a6c-83f4-28ba7bcc5387",
+      "DisplayName": "EmpWageForMultipleCompanies",
+      "ColorIndex": 1
+    },
+    "3eb879f7-bbfd-455e-b1ae-fdf176e83144": {
+      "ProjectGuid": "3eb879f7-bbfd-455e-b1ae-fdf176e83144",
+      "DisplayName": "EmpWageForMultipleCompanies",
+      "ColorIndex": 2
+    },
+    "fc118eba-0455-44de-b08d-c2eed682a806": {
+      "ProjectGuid": "fc118eba-0455-44de-b08d-c2eed682a806",
+      "DisplayName": "SaveTotalWageForCompany",
+      "ColorIndex": 3
+    },
+    "b195912e-15eb-41a1-8e37-34c47e440053": {
+      "ProjectGuid": "b195912e-15eb-41a1-8e37-34c47e440053",
+      "DisplayName": "ManageEmpWageForMultipleCompanies",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\RefactorCodeEmpWage.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\RefactorCodeEmpWage.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\RefactorCodeEmpWage.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\RefactorCodeEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\ref\RefactorCodeEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\bin\Debug\net6.0\RefactorCodeEmpWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\ref\RefactorCodeEmpWage.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\RefactorCodeEmpWage\obj\Debug\net6.0\RefactorCodeEmpWage.genruntimeconfig.cache
