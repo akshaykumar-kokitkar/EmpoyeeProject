@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ManageEmpWageForMultipleCompanies.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ManageEmpWageForMultipleCompanies.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ManageEmpWageForMultipleCompanies.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ManageEmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ref\ManageEmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\bin\Debug\net6.0\ManageEmpWageForMultipleCompanies.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ref\ManageEmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\ManageEmpWageForMultipleCompanies\obj\Debug\net6.0\ManageEmpWageForMultipleCompanies.genruntimeconfig.cache
