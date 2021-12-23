@@ -1,0 +1,14 @@
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\EmpWageForMultipleCompanies.exe
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\EmpWageForMultipleCompanies.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\EmpWageForMultipleCompanies.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\EmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\ref\EmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\bin\Debug\net6.0\EmpWageForMultipleCompanies.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\ref\EmpWageForMultipleCompanies.dll
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\EmployeeProject\EmpWageForMultipleCompanies\obj\Debug\net6.0\EmpWageForMultipleCompanies.genruntimeconfig.cache
